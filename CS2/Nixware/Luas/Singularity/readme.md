@@ -1,1 +1,0 @@
-put default.txt and the lua in your scripts folder
